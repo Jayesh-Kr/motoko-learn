@@ -1,0 +1,6 @@
+Objects, like records, are like a collection of named (possibly mutable) variables packaged in curly braces {}. But there are four key differences:
+
+We define an object by using the object keyword.
+We specify the visibility of the named variables with either the public or private keyword.
+We specify the mutability of the named variables with either the let or var keyword.
+Only public variables are part of the type of an object.

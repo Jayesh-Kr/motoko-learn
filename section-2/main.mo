@@ -271,3 +271,10 @@ switch(color2) {
 
 
 
+// 2.12
+// Assertions
+// An assertion is made using the assert keyword. It always acts on an expression of type Bool.
+let conditon : Bool = 2 > 4;
+
+assert condition;  // Program traps - Bcz condition is false...
+
